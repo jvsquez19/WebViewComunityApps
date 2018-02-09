@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Comunidad de Moviles AppViewer/CONSTANTS.swift"
+            timestampString = "523986829.397087"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CONSTANTS"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Comunidad_de_Moviles_AppViewer.CONSTANTS.__deallocating_deinit"
+                  moduleName = "Comunidad de Moviles AppViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jafethvasquez/Desktop/Comunidad%20de%20Moviles%20AppViewer/Comunidad%20de%20Moviles%20AppViewer/CONSTANTS.swift"
+                  timestampString = "523986836.69771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Comunidad_de_Moviles_AppViewer.CONSTANTS.deinit"
+                  moduleName = "Comunidad de Moviles AppViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jafethvasquez/Desktop/Comunidad%20de%20Moviles%20AppViewer/Comunidad%20de%20Moviles%20AppViewer/CONSTANTS.swift"
+                  timestampString = "523986836.700744"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Comunidad_de_Moviles_AppViewer.CONSTANTS.init () -&gt; Comunidad_de_Moviles_AppViewer.CONSTANTS"
+                  moduleName = "Comunidad de Moviles AppViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jafethvasquez/Desktop/Comunidad%20de%20Moviles%20AppViewer/Comunidad%20de%20Moviles%20AppViewer/CONSTANTS.swift"
+                  timestampString = "523986836.703666"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Comunidad_de_Moviles_AppViewer.CONSTANTS.__allocating_init () -&gt; Comunidad_de_Moviles_AppViewer.CONSTANTS"
+                  moduleName = "Comunidad de Moviles AppViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jafethvasquez/Desktop/Comunidad%20de%20Moviles%20AppViewer/Comunidad%20de%20Moviles%20AppViewer/CONSTANTS.swift"
+                  timestampString = "523986836.706572"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Comunidad de Moviles AppViewer/TableViewController.swift"
+            timestampString = "539908130.535458"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Comunidad de Moviles AppViewer/TableViewController.swift"
+            timestampString = "539908130.536341"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
